@@ -1,3 +1,4 @@
+# created by J-A2b , USE for LEGAL ACTIVITIES
 import wmi
 import time
 import os
